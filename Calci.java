@@ -5,6 +5,14 @@
  * 
  *  @Version: 1.5 Java (Method Version)
  */
+
+/*
+Copyright (c) 2023, Sarvasv-0
+All rights reserved.
+
+This source code is licensed under the BSD-style license found in the
+LICENSE file in the root directory of this source tree.
+*/
 import java.util.Scanner;
 public class Calci{
     static long multiply(int a, int b){
