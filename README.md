@@ -7,4 +7,4 @@
 Just Compile [Calci.java](Calci.java) file into its .class and use the JVM to run it.
 
 ## Dependencies
-None, the only thing you need is the Java [JRE](https://www.java.com/en/) or [JDK](https://jdk.java.net/), which you might already have if you are viewing this repo
+None, the only thing you need is the Java [JDK](https://jdk.java.net/), which you might already have if you are viewing this repo
