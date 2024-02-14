@@ -8,3 +8,15 @@ Just Compile [Calci.java](Calci.java) file into its .class and use the JVM to ru
 
 ## Dependencies
 None, the only thing you need is the Java [JDK](https://jdk.java.net/), which you might already have if you are viewing this repo
+
+## Supported Functions
+
+```
+Basic Arithmetic Operations,
+----------------------------
+addition();
+subtraction();
+multiply();
+division();
+----------------------------
+```
